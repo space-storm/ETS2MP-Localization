@@ -75,3 +75,5 @@ $_lang["too.short.password"] = "Nova šifra je previše kratka, potrebno je mini
 $_lang["old.password.does.not.match"] = "Stara šifra se ne poklapa.";
 $_lang["settings.saved"] = "Nalog je sačuvan.";
 $_lang["invalid.old.password"] = "Stara šifra se ne poklapa, podaci nisu sačuvani.";
+$_lang["no.password.change.forced"] = "Da bi resetovao šifru potrebno je da se prethodno odjaviš.";
+$_lang["password.reminder.edit.account"] = "Ne sećaš se šifre? Klikni <a href=\"index.php?page=resetPassword\">ovde</a>.";
